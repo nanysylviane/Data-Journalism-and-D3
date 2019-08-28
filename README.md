@@ -8,12 +8,11 @@
 
 ## Background
 
-Our task is to analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
+Our task is to analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand the findings.
 
 The data set : [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml]
 
-The current data set incldes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
-
+The current data set includes data on rates of income, obesity, poverty, etc. by State. MOE stands for "margin of error."
 ### Our Task
 
 # Level 1: D3 Dabbler
